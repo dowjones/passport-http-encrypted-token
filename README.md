@@ -1,5 +1,7 @@
 # passport-http-encrypted-token
 
+[![Code Climate](https://codeclimate.com/github/dowjones/passport-http-encrypted-token/badges/gpa.svg)](https://codeclimate.com/github/dowjones/passport-http-encrypted-token) [![Build Status](https://travis-ci.org/dowjones/passport-http-encrypted-token.svg?branch=master)](https://travis-ci.org/dowjones/passport-http-encrypted-token)
+
 HTTP Encrypted Token authentication strategy for [Passport](http://passportjs.org/).
 
 This module lets you authenticate HTTP requests using encrypted tokens 
