@@ -1,6 +1,7 @@
 # passport-http-encrypted-token
 
-[![Code Climate](https://codeclimate.com/github/dowjones/passport-http-encrypted-token/badges/gpa.svg)](https://codeclimate.com/github/dowjones/passport-http-encrypted-token) [![Build Status](https://travis-ci.org/dowjones/passport-http-encrypted-token.svg?branch=master)](https://travis-ci.org/dowjones/passport-http-encrypted-token) [![Coverage Status](https://coveralls.io/repos/github/dowjones/passport-http-encrypted-token/badge.svg)](https://coveralls.io/github/dowjones/passport-http-encrypted-token)
+
+[![npm](https://img.shields.io/npm/v/passport-http-encrypted-token.svg)](https://www.npmjs.com/package/passport-http-encrypted-token) [![Build Status](https://travis-ci.org/dowjones/passport-http-encrypted-token.svg?branch=master)](https://travis-ci.org/dowjones/passport-http-encrypted-token) [![Code Climate](https://codeclimate.com/github/dowjones/passport-http-encrypted-token/badges/gpa.svg)](https://codeclimate.com/github/dowjones/passport-http-encrypted-token) [![Coverage Status](https://coveralls.io/repos/github/dowjones/passport-http-encrypted-token/badge.svg)](https://coveralls.io/github/dowjones/passport-http-encrypted-token)
 
 HTTP Encrypted Token authentication strategy for [Passport](http://passportjs.org/).
 
