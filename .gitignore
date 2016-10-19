@@ -31,3 +31,6 @@ lib
 
 # coverage directory for nyc
 .nyc_output
+
+# coveralls config
+.coveralls.yml
